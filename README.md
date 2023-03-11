@@ -1,3 +1,2 @@
 # wirelesspeiliu.github.io
-homepage
-Pei Liu
+homepage of Pei Liu
